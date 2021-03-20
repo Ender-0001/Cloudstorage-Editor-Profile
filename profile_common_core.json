@@ -1,0 +1,37 @@
+{
+    "profileRevision": 1,
+    "profileId": "common_core",
+    "profileChangesBaseRevision": 1,
+    "profileChanges": [{
+        "changeType": "fullProfileUpdate",
+        "profile": {
+            "_id": "c508553aab29486daa7a0723e1845cde",
+            "created": "2021-03-20T18:21:02.209Z",
+            "updated": "2021-03-20T18:21:02.209Z",
+            "rvn": 1,
+            "wipeNumber": 1,
+            "accountId": "c508553aab29486daa7a0723e1845cde",
+            "profileId": "common_core",
+            "version": "neonite_2",
+            "items": {
+                "Currency:MtxPurchased": {
+                    "attributes": {
+                        "platform": "EpicPC"
+                    },
+                    "quantity": 0,
+                    "templateId": "Currency:MtxPurchased"
+                }
+            },
+            "stats": {
+                "attributes": {
+                    "mtx_affiliate": "FORTNITE.DEV",
+                    "current_mtx_platform": "EpicPC",
+                    "mtx_purchase_history": {}
+                }
+            }
+        }
+    }],
+    "serverTime": "2021-03-20T18:21:02.210Z",
+    "profileCommandRevision": 1,
+    "responseVersion": 1
+}
