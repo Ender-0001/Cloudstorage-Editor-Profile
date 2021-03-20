@@ -1,0 +1,29 @@
+{
+    "profileRevision": 1,
+    "profileId": "common_public",
+    "profileChangesBaseRevision": 1,
+    "profileChanges": [{
+        "changeType": "fullProfileUpdate",
+        "profile": {
+            "created": "2021-03-20T18:22:38.147Z",
+            "updated": "2021-03-20T18:22:38.147Z",
+            "rvn": 1,
+            "wipeNumber": 1,
+            "accountId": "c508553aab29486daa7a0723e1845cde",
+            "profileId": "common_public",
+            "version": "fortnite_start",
+            "items": {},
+            "stats": {
+                "attributes": {
+                    "banner_color": "",
+                    "homebase_name": "",
+                    "banner_icon": ""
+                }
+            },
+            "_id": "c508553aab29486daa7a0723e1845cde"
+        }
+    }],
+    "serverTime": "2021-03-20T18:22:38.148Z",
+    "profileCommandRevision": 1,
+    "responseVersion": 1
+}
