@@ -1,0 +1,25 @@
+{
+    "profileRevision": 1,
+    "profileId": "collections",
+    "profileChangesBaseRevision": 1,
+    "profileChanges": [{
+        "changeType": "fullProfileUpdate",
+        "profile": {
+            "created": "2021-03-20T18:21:45.849Z",
+            "updated": "2021-03-20T18:21:45.849Z",
+            "rvn": 1,
+            "wipeNumber": 1,
+            "accountId": "c508553aab29486daa7a0723e1845cde",
+            "profileId": "collections",
+            "version": "fortnite_start",
+            "items": {},
+            "stats": {
+                "attributes": {}
+            },
+            "_id": "c508553aab29486daa7a0723e1845cde"
+        }
+    }],
+    "serverTime": "2021-03-20T18:21:45.849Z",
+    "profileCommandRevision": 1,
+    "responseVersion": 1
+}
