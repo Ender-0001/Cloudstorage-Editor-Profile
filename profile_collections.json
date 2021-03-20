@@ -1,0 +1,21 @@
+{
+    "profileRevision": 1,
+    "profileId": "collections",
+    "profileChangesBaseRevision": rvv,
+    "profileChanges": [{
+    "created": "",
+    "updated": "",
+    "rvn": 1,
+    "wipeNumber": 1,
+    "accountId": "",
+    "profileId": "collections",
+    "version": "fortnite_start",
+    "items": {},
+    "stats": {
+      "attributes": {}
+    }
+  }],
+    "serverTime": "2021-03-18T16:18:56.228Z",
+    "profileCommandRevision": rvv,
+    "responseVersion": rvv
+}

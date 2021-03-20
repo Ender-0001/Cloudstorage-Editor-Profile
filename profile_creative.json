@@ -1,0 +1,35 @@
+{
+    "profileRevision": rvv,
+    "profileId": "creative",
+    "profileChangesBaseRevision": rvv,
+    "profileChanges": [{
+        "changeType": "fullProfileUpdate",
+        "profile": {
+            "created": "2021-03-18T17:30:31.555Z",
+            "updated": "2021-03-18T17:30:31.555Z",
+            "rvn": 1,
+            "wipeNumber": 1,
+            "accountId": "c508553aab29486daa7a0723e1845cde",
+            "profileId": "creative",
+            "version": "fix_empty_users_again_july_2019",
+            "items": {},
+            "stats": {
+                "attributes": {
+                    "last_used_battlelab_file": "",
+                    "max_island_plots": 50,
+                    "publish_allowed": true,
+                    "support_code": true,
+                    "last_used_plot": "",
+                    "permissions": [],
+                    "creator_name": "",
+                    "publish_banned": false,
+                    "inventory_limit_bonus": 0
+                }
+            },
+            "_id": "c508553aab29486daa7a0723e1845cde"
+        }
+    }],
+    "serverTime": "2021-03-18T17:30:31.556Z",
+    "profileCommandRevision": rvv,
+    "responseVersion": rvv
+}
